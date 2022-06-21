@@ -1,4 +1,6 @@
-mellodoot worldwide
+# mellodoot worldwide
+
+creator of the in(famous) [catdance](https://catdance.xyz) and the [funny ip address generator](https://github.com/mellodoot/ipaddrgen)
 
 🌎 www.mellodoot.com 🌎
 
