@@ -1,13 +1,18 @@
-# mellodoot worldwide
+# mellodoot's software garage
 
-creator of the in(famous) [catdance](https://catdance.xyz), a lovely [pride flag](https://github.com/mellodoot/prideflag) for the web, and the [funny ip address generator](https://github.com/mellodoot/ipaddrgen)
+creator of the infamous (yet barely famous) [catdance](https://catdance.xyz), a lovely little [pride flag](https://github.com/mellodoot/prideflag) for the web, other [goofy code projects](https://github.com/mellodoot?tab=repositories) and a whole slew of content across [youtube](https://youtube.com/mellodoot) and all good [music](https://mellodoot.com/music) streaming platforms! 
 
 🌎 www.mellodoot.com 🌎
 
 ---
 
-### old projects!
-- [sandblock (source available in my repos!)](https://gamejolt.com/games/sandblock/210606)
-- [one week at scratchy's (scratch fnaf clone)](https://drive.google.com/drive/u/6/folders/11uusTsXxFeuCs9FWXo7qV1Mk3bYxALG-)
+## active projects!
+- [impact meme generator](https://github.com/mellodoot/impact-meme-generator) - bring your TOP TEXT BOTTOM TEXT dreams to life! 😳
+- [pride flag](https://github.com/mellodoot/prideflag) - a lovely pride flag for the web! 🏳️‍🌈🏳️‍⚧️💖
+- [ipaddrgen](https://github.com/mellodoot/ipaddrgen) - funny ip address generator 👩‍💻🛰️
 
-© mellodoot 2023
+## old projects!
+- [sandblock](https://github.com/mellodoot/sandblock)
+- [one week at scratchy's (scratch fnaf clone)](https://drive.google.com/drive/folders/11uusTsXxFeuCs9FWXo7qV1Mk3bYxALG-)
+
+made with ❤️ by mellodoot, 2023
