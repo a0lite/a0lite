@@ -16,4 +16,4 @@ creator of the infamous (yet barely famous) [catdance](https://catdance.xyz), a 
 - [sandblock](https://github.com/mellodoot/sandblock)
 - [one week at scratchy's (scratch fnaf clone)](https://drive.google.com/drive/folders/11uusTsXxFeuCs9FWXo7qV1Mk3bYxALG-)
 
-made with ❤️ by ari melody, 2023
+made with ❤️ by ari melody, 2024
