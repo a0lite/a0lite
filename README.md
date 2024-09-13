@@ -1,18 +1,18 @@
 # ari's software garage
 
-creator of the infamous (yet barely famous) [catdance](https://catdance.xyz), a lovely little [pride flag](https://github.com/mellodoot/prideflag) for the web, other [silly code projects](https://github.com/mellodoot?tab=repositories) and a whole slew of content across [youtube](https://youtube.com/mellodoot) and all good [music](https://arimelody.me/music) streaming platforms! 
+howdy! whether you're a curious software nerd or prospective employer, i hope you enjoy perusing through my catalogue of software projects, from small and silly to big and complex.
 
 🌎 www.arimelody.me 🌎
 
 ---
 
-## active projects!
-- [arimelody.me](https://github.com/mellodoot/arimelody.me) - my website!! 💫
-- [impact meme generator](https://github.com/mellodoot/impact-meme-generator) - bring your TOP TEXT BOTTOM TEXT dreams to life! 😳
-- [pride flag](https://github.com/mellodoot/prideflag) - a lovely pride flag for the web! 🏳️‍🌈🏳️‍⚧️💖
-- [ipaddrgen](https://github.com/mellodoot/ipaddrgen) - funny ip address generator 👩‍💻🛰️
+## active projects
+- [arimelody.me](https://git.arimelody.me/ari/arimelody.me) - my website!! 💫
+- [impact meme generator](https://github.com/arimelody/impact-meme-generator) - bring your TOP TEXT BOTTOM TEXT dreams to life! 😳
+- [pride flag](https://github.com/arimelody/prideflag) - a lovely pride flag for the web! 🏳️‍🌈🏳️‍⚧️💖
+- [ipaddrgen](https://github.com/arimelody/ipaddrgen) - funny ip address generator 👩‍💻🛰️
 
-## old projects!
+## old projects
 - [sandblock](https://github.com/mellodoot/sandblock)
 - [one week at scratchy's (scratch fnaf clone)](https://drive.google.com/drive/folders/11uusTsXxFeuCs9FWXo7qV1Mk3bYxALG-)
 
